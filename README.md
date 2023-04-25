@@ -7,6 +7,9 @@ The Udacity Microsoft Azure Machine Learning Engineer Nanodegree Program include
 
 For this project to run a Jupyter Notebook and a compute cluster for the machine learning experiments, a compute instance must be created. Manual selection of the dataset is required.AutoML and HyperDrive were used in two experiments. The best model run, metrics, and a deployed model that communicates with the deployed model via a RESTful API Webservice.
 
+<img width="903" alt="image" src="https://user-images.githubusercontent.com/110788191/234421170-b2c98a01-5a05-46e3-b4fa-5906ae521f75.png">
+
+
 ### Key Steps
 
 ### Authentication
